@@ -2,3 +2,8 @@
 	path = OCA/pos
 	url = git@github.com:OCA/pos.git
 	branch = 7.0
+
+[submodule "OCA/pos1"]
+	path = OCA/pos1
+	url = git@github.com:OCA/pos.git
+	branch = 14.0
